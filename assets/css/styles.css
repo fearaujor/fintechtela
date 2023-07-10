@@ -1,0 +1,17 @@
+.botao {
+    background-color: rgb(192, 28, 28);
+    border-color: black;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(238, 237, 237);
+}
+
